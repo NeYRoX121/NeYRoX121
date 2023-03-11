@@ -2,8 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 Learning html css and javascript
 - 📫 You can reach me by the email or Linkedin:
-Email: neyrox121@gmail.com
-Linkedin: https://www.linkedin.com/in/daniel-antonovski-a8472a22b/
+Email: neyrox121@gmail.com \n Linkedin: https://www.linkedin.com/in/daniel-antonovski-a8472a22b/
 - I'm currently looking for a job as trainee/junior frontend developer
 
 <!---
